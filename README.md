@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravish Satwani</h1>
 <h3 align="center">Hey, as a front-end developer, I have a track record of success in creating sophisticated and innovative websites. I possess excellent project management skills and excel at independently solving complex problems. With my keen attention to detail, strong multitasking abilities, and proficiency in scheduling projects, I am able to enhance designs and ensure the accuracy of code.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ravish036.github.io/Link-Tree/](https://ravish036.github.io/Link-Tree/)
+- 👨‍💻 All of my projects are available at <a href="https://ravish036.github.io/Link-Tree/" target="blank" /> Link Tree </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
